@@ -65,7 +65,7 @@ To deliver a business-friendly analytics tool that:
 - **Shipping Cost Optimization**  
   Modeled per-unit cost reductions through shipment consolidation and bulk ordering, aligning with environmental and operational goals.
 
-- **Market Basket Exploration** *(Bonus)*  
+- **Market Basket Exploration**  
   Attempted correlation matrix to uncover product affinity patterns, laying groundwork for future recommendation systems and basket-based promotions.
 
 ### • Dashboard Pages
